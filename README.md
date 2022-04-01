@@ -1,4 +1,4 @@
-# SDLC Activity Based Learning
+# Movie Ticket Booking
 
 ![Banner](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/1_Requirements/banner.png)
 
